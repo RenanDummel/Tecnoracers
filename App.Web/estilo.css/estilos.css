@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    background-image: url(https://fastly.picsum.photos/id/83/2200/1667.jpg?hmac=rNHZ_C2ZWDjOYzBgCGfwrg3Yql-s99aD9wxsOIQ9MOE);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    display: inline-block;
+    text-decoration: none;
+    width: 120px;
+    height: 35px;
+    padding-top: 15px;n
+    text-align: center;
+    color: white;
+    transition: 0.5s;
+}
+.menu:hover {
+    font-weight: bold;
+    background-color: blue;
+    color: black;
+    height: 60px;
+}
+
+#geral {
+    margin: 0 auto;
+    background-color: beige;
+    width: 900px;
+    height: 1200px;
+}
+
+#topo {
+    background-color: orange;
+    width: 900px;
+    height: 200px;
+    font-size: 90px;
+    text-align: center;
+}
+
+#menu {
+    background-color: blueviolet;
+    width: 900px;
+    height: 50px;
+}
+ 
+#slide {
+    background-color: yellowgreen;
+    background-image: url(https://fastly.picsum.photos/id/361/900/250.jpg?hmac=iNQQ7W4MI9OJyG7UdDrmDcLfwSZcGgw28n65oMER8Uo);
+    width: 900px;
+    height: 250px;
+}
+
+#conteudo {
+    background-color: white;
+    width: 900px;
+    height: 600px;
+}
