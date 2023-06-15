@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj": {}
+    "c:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj": {
+    "c:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj",
+        "projectUniqueName": "c:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj",
         "projectName": "Tecnoracers",
-        "projectPath": "C:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj",
+        "projectPath": "c:\\Users\\rd0122846\\Documents\\Tecnoracers\\Tecnoracers.csproj",
         "packagesPath": "C:\\Users\\rd0122846\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rd0122846\\Documents\\Tecnoracers\\obj\\",
+        "outputPath": "c:\\Users\\rd0122846\\Documents\\Tecnoracers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rd0122846\\AppData\\Roaming\\NuGet\\NuGet.Config",
