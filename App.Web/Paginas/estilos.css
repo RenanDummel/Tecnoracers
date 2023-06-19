@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background-image: url(https://fastly.picsum.photos/id/83/2200/1667.jpg?hmac=rNHZ_C2ZWDjOYzBgCGfwrg3Yql-s99aD9wxsOIQ9MOE);
+    background-image: url(https://media.licdn.com/dms/image/C4D1BAQEpMbpxnU7vfw/company-background_10000/0/1637936213860?e=1687824000&v=beta&t=GcJYCwjGfHDi_wAKpG9bCGesmGpICc5nNdDShuj4XuY);
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
@@ -17,21 +17,21 @@ body {
 }
 .menu:hover {
     font-weight: bold;
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     color: black;
-    height: 60px;
+    height: 45px;
 }
 
 #geral {
     margin: 0 auto;
     background-color: beige;
-    width: 900px;
+    width: 1000px;
     height: 1200px;
 }
 
 #topo {
     background-color: rgb(0, 0, 0);
-    width: 900px;
+    width: 1000px;
     height: 200px;
     font-size: 90px;
     text-align: center;
@@ -40,19 +40,19 @@ body {
 
 #menu {
     background-color: rgb(247, 131, 22);
-    width: 900px;
+    width: 1000px;
     height: 50px;
 }
  
 #slide {
     background-color: yellowgreen;
     background-image: url(https://fastly.picsum.photos/id/361/900/250.jpg?hmac=iNQQ7W4MI9OJyG7UdDrmDcLfwSZcGgw28n65oMER8Uo);
-    width: 900px;
+    width: 1000px;
     height: 250px;
 }
 
 #conteudo {
     background-color: white;
-    width: 900px;
+    width: 1000px;
     height: 600px;
 }
