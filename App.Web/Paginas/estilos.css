@@ -46,7 +46,8 @@ body {
  
 #slide {
     background-color: yellowgreen;
-    background-image: url(https://fastly.picsum.photos/id/361/900/250.jpg?hmac=iNQQ7W4MI9OJyG7UdDrmDcLfwSZcGgw28n65oMER8Uo);
+    background-image: url(https://www.sciencebuddies.org/a9ligRE6y-42KhmQ5vDqjF72n0k=/650x365/-/https/www.sciencebuddies.org/cdn/Files/18257/4/self-driving-arduino-car.jpg);
+    background-repeat: no-repeat;
     width: 1000px;
     height: 250px;
 }
