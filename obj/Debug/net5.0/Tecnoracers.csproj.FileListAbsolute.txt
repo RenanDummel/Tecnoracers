@@ -1,0 +1,6 @@
+C:\Users\rd0122846\Source\Repos\Tecnoracers\obj\Debug\net5.0\Tecnoracers.csproj.AssemblyReference.cache
+C:\Users\rd0122846\Source\Repos\Tecnoracers\obj\Debug\net5.0\Tecnoracers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rd0122846\Source\Repos\Tecnoracers\obj\Debug\net5.0\Tecnoracers.AssemblyInfoInputs.cache
+C:\Users\rd0122846\Source\Repos\Tecnoracers\obj\Debug\net5.0\Tecnoracers.AssemblyInfo.cs
+C:\Users\rd0122846\Source\Repos\Tecnoracers\obj\Debug\net5.0\Tecnoracers.csproj.CoreCompileInputs.cache
+C:\Users\rd0122846\Source\Repos\Tecnoracers\obj\Debug\net5.0\Tecnoracers.MvcApplicationPartsAssemblyInfo.cache
