@@ -52,7 +52,31 @@ body {
 }
 
 #conteudo {
-    background-color: white;
+    background-color:bisque;
     width: 1000px;
-    height: 600px;
+    height: 10px;
+}
+
+.chaves {
+    display: inline-block;
+    text-decoration: none;
+    width: 150px;
+    height: 35px;
+    padding-top: 15px;
+    text-align: center;
+    color: rgb(255, 254, 252);
+    transition: 0.5s;
+}
+
+.chaves:hover {
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 45px;
+}
+
+#chaves {
+    background-color: rgb(46, 115, 232);
+    width: 1000px;
+    height: 50px;
 }
