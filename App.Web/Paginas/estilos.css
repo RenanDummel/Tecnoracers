@@ -24,7 +24,7 @@ body {
 
 #geral {
     margin: 0 auto;
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
     width: 1000px;
     height: 1200px;
 }
@@ -53,7 +53,7 @@ body {
 }
 
 #conteudo {
-    background-color:bisque;
+    background-color:rgb(255, 255, 255);
     width: 1000px;
     height: 10px;
 }
@@ -61,7 +61,7 @@ body {
 .chaves {
     display: inline-block;
     text-decoration: none;
-    width: 150px;
+    width: 330px;
     height: 35px;
     padding-top: 15px;
     text-align: center;
@@ -80,4 +80,27 @@ body {
     background-color: rgb(46, 115, 232);
     width: 1000px;
     height: 50px;
+}
+
+#espaço {
+    background-color:bisque;
+    width: 1000px;
+    height: 10px;
+}
+
+.quadro{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem;
+}
+.quadro > div {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex: 1;
 }
