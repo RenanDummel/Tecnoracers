@@ -1,3 +1,7 @@
+* {
+    font-family: Poppins, sans-serif;
+}
+
 body {
     margin: 0px;
     background-image: url(https://media.licdn.com/dms/image/C4D1BAQEpMbpxnU7vfw/company-background_10000/0/1637936213860?e=1687824000&v=beta&t=GcJYCwjGfHDi_wAKpG9bCGesmGpICc5nNdDShuj4XuY);
@@ -26,7 +30,7 @@ body {
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
     width: 1000px;
-    height: 1200px;
+    height: 850px;
 }
 
 #topo {
@@ -88,7 +92,24 @@ body {
     height: 10px;
 }
 
-.quadro{
+#tituloint {
+    margin-left: 2rem;
+    margin-bottom: 15px;
+}
+
+.integrante {
+    margin-left: 2rem;
+    margin-bottom: 5px;
+}
+
+.paragrafo {
+    margin-top: 5px;
+    margin-left: 1rem;
+    margin-bottom: 25px;
+    text-indent: 2rem;
+}
+
+.quadro {
     position: relative;
     display: flex;
     flex-direction: row;
@@ -97,10 +118,15 @@ body {
     gap: 2rem;
     padding: 2rem;
 }
+
 .quadro > div {
     flex-direction: column;
     display: flex;
     align-items: center;
     gap: 2rem;
     flex: 1;
+}
+
+.tecnoracers {
+    padding-top: 3rem;
 }
