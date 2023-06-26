@@ -116,7 +116,7 @@ body {
     flex-direction: column;
     display: flex;
     align-items: center;
-    margin-top: 2rem;
+    margin-top: 1rem;
     flex: 1;
 }
 
@@ -132,4 +132,8 @@ body {
     margin-top: 5px;
     margin-bottom: 20px;
     font-weight: bold;
+}
+
+.blank {
+    margin-top: 6rem;
 }
