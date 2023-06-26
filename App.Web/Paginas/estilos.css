@@ -126,6 +126,7 @@ body {
 
 .time {
     margin-top: 5px;
+    width: 10rem;
 }
 
 .jogo {
@@ -136,4 +137,14 @@ body {
 
 .blank {
     margin-top: 6rem;
+}
+
+#tituloregistro {
+    margin: 1rem 0rem 0rem 1rem;
+}
+
+#registro {
+    margin-top: 1rem;
+    margin-left: 2rem;
+    width: 18rem;
 }
