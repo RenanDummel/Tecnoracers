@@ -142,3 +142,22 @@ body {
     margin-left: 2rem;
     width: 18rem;
 }
+
+#cont_integrantes {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    gap: 4rem;
+    padding: 2rem;
+}
+
+#cont_integrantes > div {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    flex: 1;
+    min-height: 270px;
+}
