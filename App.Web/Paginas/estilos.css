@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    background-image: url(https://media.licdn.com/dms/image/C4D1BAQEpMbpxnU7vfw/company-background_10000/0/1637936213860?e=1687824000&v=beta&t=GcJYCwjGfHDi_wAKpG9bCGesmGpICc5nNdDShuj4XuY);
+    background-color: beige;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
@@ -21,21 +21,21 @@ body {
 }
 .menu:hover {
     font-weight: bold;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 180, 109);
     color: black;
     height: 45px;
 }
 
 #geral {
     margin: 0 auto;
-    background-color: rgb(255, 255, 255);
-    width: 1000px;
+    background-color: rgb(216, 216, 216);
+    width: 100%;
     height: 1000px;
 }
 
 #topo {
     background-color: rgb(0, 0, 0);
-    width: 1000px;
+    width: 100%;
     height: 200px;
     font-size: 90px;
     text-align: center;
@@ -44,12 +44,11 @@ body {
 
 #menu {
     background-color: rgb(247, 131, 22);
-    width: 1000px;
+    width: 100%;
     height: 50px;
 }
  
 #slide {
-    background-color: yellowgreen;
     background-image: url(https://www.sciencebuddies.org/a9ligRE6y-42KhmQ5vDqjF72n0k=/650x365/-/https/www.sciencebuddies.org/cdn/Files/18257/4/self-driving-arduino-car.jpg);
     background-repeat: no-repeat;
     width: 1000px;
@@ -57,7 +56,7 @@ body {
 }
 
 #conteudo {
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(216, 216, 216);
     width: 1000px;
     height: 10px;
 }
@@ -65,7 +64,7 @@ body {
 .chaves {
     display: inline-block;
     text-decoration: none;
-    width: 330px;
+    width: 33%;
     height: 35px;
     padding-top: 15px;
     text-align: center;
@@ -74,15 +73,9 @@ body {
 }
 
 #chaves {
-    background-color: rgb(46, 115, 232);
-    width: 1000px;
+    background-color: rgb(110, 110, 110);
+    flex: 1;
     height: 50px;
-}
-
-#espaço {
-    background-color:bisque;
-    width: 1000px;
-    height: 10px;
 }
 
 #tituloint {
@@ -122,6 +115,7 @@ body {
 
 .tecnoracers {
     padding-top: 3rem;
+    margin: 0px;
 }
 
 .time {
