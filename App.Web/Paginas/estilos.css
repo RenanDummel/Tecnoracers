@@ -64,7 +64,7 @@ body {
 .chaves {
     display: inline-block;
     text-decoration: none;
-    width: 33%;
+    width: 24%;
     height: 35px;
     padding-top: 15px;
     text-align: center;
@@ -74,7 +74,7 @@ body {
 
 #chaves {
     background-color: rgb(110, 110, 110);
-    flex: 1;
+    flex: auto;
     height: 50px;
 }
 
@@ -86,6 +86,7 @@ body {
 .integrante {
     margin-left: 2rem;
     margin-bottom: 5px;
+    border: medium solid red;
 }
 
 .paragrafo {
@@ -159,5 +160,9 @@ body {
     align-items: center;
     margin-top: 1rem;
     flex: 1;
-    min-height: 270px;
+    min-height: 537px;
+}
+
+.fotos {
+    width: 200px;
 }
