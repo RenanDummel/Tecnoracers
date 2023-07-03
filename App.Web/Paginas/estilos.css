@@ -33,6 +33,10 @@ body {
     height: 1000px;
 }
 
+.bulletlist {
+    margin-top: 0px;
+}
+
 #topo {
     background-color: rgb(0, 0, 0);
     width: 100%;
@@ -84,16 +88,25 @@ body {
 }
 
 .integrante {
+    background-color: rgb(200, 200, 200);
     margin-left: 2rem;
-    margin-bottom: 5px;
-    border: medium solid red;
+    border: medium solid rgb(0, 0, 0);
+    border-radius: 20px;
 }
 
 .paragrafo {
     margin-top: 5px;
     margin-left: 1rem;
-    margin-bottom: 25px;
     text-indent: 2rem;
+}
+
+.texto {
+    margin-left: 1rem;
+}
+
+.fotos {
+    margin-top: 1rem;
+    border: thin solid rgb(180, 180, 180);
 }
 
 .quadro {
@@ -160,7 +173,6 @@ body {
     align-items: center;
     margin-top: 1rem;
     flex: 1;
-    min-height: 537px;
 }
 
 .fotos {
