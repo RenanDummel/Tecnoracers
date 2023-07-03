@@ -53,35 +53,41 @@ body {
 }
 
 .carousel {
-    width: 100%;
-    height: 300px; /* Defina a altura desejada para o carrossel */
-    overflow: hidden;
-  }
-  
-  .carousel-inner {
-    display: flex;
-    width: 100%;
-    height: 100%;
-    animation: carousel-slide 10s infinite;
-  }
-  
-  .carousel-inner img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  @keyframes carousel-slide {
-    0% { transform: translateX(0); }
-    20% { transform: translateX(0); }
-    25% { transform: translateX(-100%); }
-    45% { transform: translateX(-100%); }
-    50% { transform: translateX(-200%); }
-    70% { transform: translateX(-200%); }
-    75% { transform: translateX(-300%); }
-    95% { transform: translateX(-300%); }
-    100% { transform: translateX(0); }
-  }
+  width: 100%;
+  height: 300px; /* Defina a altura desejada para o carrossel */
+  overflow: hidden;
+}
+
+.carousel-inner {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  animation: carousel-slide 10s infinite;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@keyframes carousel-slide {
+  0% { transform: translateX(0); }
+  20% { transform: translateX(0); }
+  25% { transform: translateX(-100%); }
+  45% { transform: translateX(-100%); }
+  50% { transform: translateX(-200%); }
+  70% { transform: translateX(-200%); }
+  75% { transform: translateX(-300%); }
+  95% { transform: translateX(-300%); }
+  100% { transform: translateX(0); }
+}
+#slide {
+    background-image: url(https://www.sciencebuddies.org/a9ligRE6y-42KhmQ5vDqjF72n0k=/650x365/-/https/www.sciencebuddies.org/cdn/Files/18257/4/self-driving-arduino-car.jpg);
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 250px;
+}
 
 #conteudo {
     background-color:rgb(216, 216, 216);
