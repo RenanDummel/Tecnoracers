@@ -200,11 +200,11 @@ body {
 }
 
 #cont_integrantes {
+    align-items: stretch;
     position: relative;
     display: flex;
     flex-direction: row;
     align-content: center;
-    align-items: center;
     gap: 4rem;
     padding: 2rem;
 }
