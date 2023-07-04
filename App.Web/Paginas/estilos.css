@@ -173,6 +173,18 @@ body {
     font-weight: bold;
 }
 
+.jogoquartas {
+    margin-top: 5px;
+    margin-bottom: 8rem;
+    font-weight: bold;
+}
+
+.jogosemi {
+    margin-top: 5px;
+    margin-bottom: 8rem;
+    font-weight: bold;
+}
+
 .blank {
     margin-top: 6rem;
 }
