@@ -10,6 +10,8 @@ var app = builder.Build();
 
 app.UseAuthorization();
 
+app.UseStaticFiles();
+
 app.MapControllers();
 
 app.Run();

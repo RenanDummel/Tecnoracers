@@ -61,6 +61,15 @@
             </div>
         </div>
     </div>
-
+    <script>
+        fetch("/Equipe").then(r => r.json()).then(equipes => {
+            const elementos = Array.from(document.querySelectorAll(".time"));
+            debugger
+            elementos.forEach(elemento => {
+                const options = equipes.map(equipe => "<option>" + equipe.nome + "</option>").join();
+                elemento.innerHTML = options;
+            })
+        })
+    </script>
 </body>
 </html>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "olcRBQQ/yWP8imrcwv+FV1gDQMbWgusGOTWyOSux6NA=",
+  "Source": "Tecnoracers",
+  "BasePath": "_content/Tecnoracers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tecnoracers\\wwwroot",
+      "Source": "Tecnoracers",
+      "ContentRoot": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\",
+      "BasePath": "_content/Tecnoracers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\api.html",
+      "SourceId": "Tecnoracers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\",
+      "BasePath": "_content/Tecnoracers",
+      "RelativePath": "api.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\api.html"
+    },
+    {
+      "Identity": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\estilos.css",
+      "SourceId": "Tecnoracers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\",
+      "BasePath": "_content/Tecnoracers",
+      "RelativePath": "estilos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\estilos.css"
+    },
+    {
+      "Identity": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\index.html",
+      "SourceId": "Tecnoracers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\",
+      "BasePath": "_content/Tecnoracers",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\integrantes.html",
+      "SourceId": "Tecnoracers",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Renan\\Documents\\Tecnoracers\\wwwroot\\",
+      "BasePath": "_content/Tecnoracers",
+      "RelativePath": "integrantes.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\integrantes.html"
+    }
+  ]
+}
